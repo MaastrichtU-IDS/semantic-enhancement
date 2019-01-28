@@ -1,0 +1,100 @@
+PromoteRaction
+interAction actions
+GENAERegene
+InteractIoNiD
+cHEVCEEsortame
+chromosomal_StARt - GRCHGCCR
+InterACTIOname
+iDchemicalGenG
+Acc promotEr
+AnnotationMGene
+geneId
+ensemBLEVariant
+rNp13MAT
+idSGene
+chemicaLgene
+has_CPICentr_ID
+aCCDADeS
+ChROmosomal STart - GrCh37.P13
+GENAGENametERTYS HOTTERE
+CHrOMOsomal StarT id
+chromoSoMAL id
+ccds_iD
+IdpUBMEDAction
+variANtRaLISGortent
+NCCP7
+meRorganism
+puBMEDANteRAcTIO
+prevlncrnadb
+GENACc
+iDid
+iDGene
+altERNAmim
+CHRomosomal_sTOp_iD
+stAtus
+ORGENAccs
+ChromosoMALgene
+GenERCHANc
+IdMERAcc
+Refseq_acceSsion
+stopID
+IdMEracTIOrF
+symbol
+IdMERIDeZentRENC
+iDend
+HOrnabase
+DAne
+SyMBIdGene
+iDChromosomal
+IdmErOcPIor
+locaTion_staRtrgd
+PUBMChemicalGene
+entrEz_id
+symBOloCDSgene
+ensembl id
+idSC
+GENACCHRomosomal
+alTeRNAergene
+ensembl_ID
+refsEQCchromosomal_start_-_GR3
+CHROMaloTation
+Orfalternate
+IdMErAcTIOna
+IdWaSCH7.p13CRo
+LoCUBAtiD
+iDend
+genEENAcc
+InterAcTIORd
+AnnotatIoNSchemical
+NAMESIVid
+DatEIoMALIantation
+pharmGKBOLs
+ChromosoMAL Id
+iDchromosOMe
+ENSeMVIstop
+InterACtiOniD
+CHromosomaL STARTR id
+locatioNPharmGK
+CHrOMOroMasOREstArtpubb
+idid
+IdmerOPS
+genEENAcc
+CHrOMOsomalId
+ChroMOsOmal_StArt_-_GRChAmim
+Acc pRomOtEr
+GENAGEName
+ANNnames
+IdMaMOriAntR
+GENAGEName
+SYMOriant
+startrgd
+chaNGeDORDAdB
+IdMERenTrEz
+GENALinTErNAGE
+ChRomoSoMALalias
+Has_CPICAs
+acCchromosomal
+idorf
+GENAGENAcc
+idfaMIL
+geNe_fAMILb_id

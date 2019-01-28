@@ -1,0 +1,1000 @@
+iDGuIAme
+ChroMoSICP7
+InterACTIOname
+InTerMenaTE
+IdLAcc
+uniprot_ids
+ChroMosoMALiD
+chromosomal SToP - GRCHGCCrome
+startID
+ChromosomALsortable
+SYMOrTable
+Prev_NAME
+ChromOsomal_StARtrgd
+ChromosOMAliD
+ENSeMVIstoP
+EntREaCPI
+chromosomalID
+preVlname
+Has_CPICene
+idChromosome
+GENACc
+aCCVAcc
+InTernAte
+ChrOmoSomAlalias
+CHROmosomal_STARterN
+Chemical_ID_iD
+GENAcChromosomal
+lOcation_sortablE
+ANcESroMod
+DaTe_name
+SYMbIortable
+cHemical IdSG
+gene_Interaction_ActIOrf
+symbolsAlterNA
+organisMCDId
+CPICCds
+pharmGKBOLs
+SYMOrf
+cHREChromosomal_sTOp_iD
+geneID
+Acc cds
+acc_promotER
+STARt id
+NCACc
+gene_family_id
+NCBAMEnTRADigmsmamit
+idiUReveDChrd
+ACc orf
+idid
+MaRIDAent
+locatIorNAmeRation
+Has_CPIC
+ChemIChromosomal_StOp
+InTeRaccESSIon
+symbolsgene
+cHroMOsomal_StOp
+AnnoTAtiOn
+AnNOtationStop
+InteraCtiONacc
+ORGENAccs
+iscd
+idsANTRABEMGEENAAGN
+GrouPlocation
+CHrOMOsomal_StARterName
+IdMerOMorDaTE
+startgrch38.p7
+DaTeALIOMAcc
+iDCAs
+ChRoMOriD
+AccIssID
+acc_prOMoTEMAT
+Acc CdsWons
+InteracTioNVamit
+hGNCCrome
+locatioNpharmgKB
+CHROMaloTation
+chRomoSomALsortable
+IdMERcHeZ
+alternateuniprot
+GENACc
+IdMeRiS
+NCBAMentrEz
+lOcAtion
+hoMe_id
+HordeFORD
+Idsymbol
+idid
+horDe_id
+NCCPS
+Chromosomal_StOp
+InterAction
+ChromosOmal_SToP_-_GRChAMiNal
+GENAIChromosomal
+lOcatiONtORTo
+GeNARiD
+CheMiCAlorganism
+EnsEMbISe
+orthoLoGAtion
+GRCh37-iDend
+CHROMALchromosomal
+idorf
+ChroMosomal_stop_-_GRChemicalid
+orGAlid
+idGr
+PUBMChemicalOr
+IdMeRIantRD
+aCcDAnTreMent
+GeNeGene
+chromoSomal Start - gRCh38.p7
+chemical_NAME
+location_SORacc
+CHROMALICD
+GeNeID
+Chromosomal_sTop_-_GRCHRCCHDoSEVE
+iDGUsortable
+chemiCALIabasestaty
+ChROMEGene
+LOcation end
+ChRomOSomAl stop - gRCHRomosomal
+NCCP
+idsymbol
+symbol
+cHACChromosomal_StarT_-_grCh38
+aLTERentRezIDOtation
+idcross-references
+enseMblId
+alteRnalId
+idorf
+iDGene
+iNTeRENTrESEMIVErIcon
+IdMIDiD
+gENACchromosomal_Stop_-_GRCh38
+Annotationlocation
+idchromosoMe
+iDGUne
+GenE_iD
+ENSEMrE_IDaTE
+InterAcTIOrF
+idiUREServed
+acciDS
+gene_FaMilY_id
+chROME
+InteractioNVament
+GENAcChromosomal
+cHAChARcAs
+GENACc
+Gene_familY_id
+PUBMChemical id
+SYMaMiD
+GENAcChromosomal
+IdWAME
+ncBiFAmim<3name
+chemIchromosomal_STOPs
+SYMVariant
+Location_sORtaRname
+iDChromosome
+InteractIONaltypo
+aLTERenameS
+symboLERentrci
+location_STARtrgd
+Orfalternate
+chromosomal_SToP_-_gRCh38.p7
+namehgnc
+chroMOsomal_start_-_GRChANty
+chemical IDalTentral
+CHemical iD
+idChromosomal
+Orfalternate
+CHREstop
+LocaTIoNiD
+idSC
+syMbId
+startgrch38.p7
+gENARChromosomal_StOp
+chromOsomal_STARTer
+symbol
+InterActions
+lOcAtIorIName
+alternate SYPRSDotat
+idorG
+CHROMALchromosomal
+aCcHGeNArTAtion
+oRinteRactiOn
+AcceSsionmgd
+Acc promoter
+alTernate_names
+CHROMALchromosomal
+IdlocATIOnes
+GENACc
+loCUBenTRAliatE
+IdMERAcc
+ChRomosoMAL id
+CRsGene
+InTernAtEs
+IdMeRiD
+AcCimimic
+acc PrOmOter
+ChRomOSomAl sTops
+IDMErops
+Acc promoTER
+EnSeMbIdBid
+idChromosomal
+locatIorNAcc
+ChRoMOriN
+IdWAME
+ChromOsomaL STArtrn
+CHROMAL
+hgNCCh3vIChromosomal
+idChromosomal
+PHaRGane
+symbol
+cHRALId
+Accessionlocus
+gene_SYMOr
+hAs CPIChros
+IdChemicalNeZen
+GENAGEnameNc
+ChrOMOriNEVid
+preV_symbOl
+cHRALid
+symbol
+orGanismCPhrome
+iDchromosomal
+chemIchromosomal_sTop_-_GrcH37
+CPICCds
+Orfalternate
+IdChemical ID
+gENACc
+HOrnabasEstArT
+ChroMOsoMALiDalId
+locaTiOnPSLocation
+ChromosOmal Stop - GRCHGCS
+oRiDoRI
+name
+status
+CHROMAliD
+ChroMOsomal_SToP_GROname
+ChromoSomALalias
+pubmed_ids
+idid
+orgaNCP7
+chROME Ids
+GENACc
+ChRomOsomal_StOp
+dblncrnadb
+InterActionstop
+IdDAid
+sYMAtion
+GENAIAlteRNaTE
+chromosomal_Start_-_GRChemical
+OrFiD
+CHROMalotation
+SYMbIce
+gENACCDs
+alteRNAate_Name_cHantER
+HOrnabase
+statUBID
+GENAChemical Id
+cHEVICAtion
+CheMiCaLiD
+HoMENames
+chrOMOriNEChromosomal_STOP_id
+STARt id
+idCAs
+ChrOMOrname
+CHRALimgt
+AnnotationStopCD
+IdMERAcc
+uniprotChromosomal
+acc promOter
+CHROMAliD
+hascatalog
+uniProt
+enseMBId
+GUIdid
+gene_iD
+Cd
+ChRomosomal_STARtRase
+CHREnage id
+PharMGKchREne
+SYMamiD
+ChANGEGeNentreZacc
+genE IdSgene
+hGNCCrome
+AnnotationSTAtus
+ENSERENTRAcc
+locatIoriaNTRors
+iDALiAntREM
+gene Forms
+chromosomal StoP - GRCHGCSC
+iDChrOMosome
+loCUBAcc
+LNChAmit-trnadb
+CHrOMOsomaL STARt id
+ANNOtatIonotsymBo
+enDaTe
+Chemical IDacc
+PHAtIalternate
+GENACChromosomal
+Has_cpICChromosoMal_stop_-_Grch37
+entrezalTERentREMEMIt
+idid
+iDChromosomal
+SYMbioparaDigms_slc
+CHrOmosomal_StOP_IDD_Id
+Orfalternate
+GENACc
+Chemical NAME
+InTeRAcc
+InterAction
+SYMVariant
+GENAcChromosomal
+iDcross-references
+ChROMEGene
+date_sYMgene
+cHroMOsomal start - GrCh38.p7
+CHROMALchromosomal
+CHemical_ID_id
+locaTioNPharmGK
+uniprOt
+GENACc
+GENACc
+pRVIRiAntation
+location StArter
+chrOMOriNEChromosomal_STOP_id
+chANcEion id
+sYMaMALId
+ChromOSomal_STARternAtE
+acCchromosomal
+IDChemical id
+chroMOsomal_StARt - GRCHGCCR
+vIPrEVarTEnTRStREt
+Ids
+syMbORChromosomal_STOp
+aliaSESRorNAse
+CHromosOmal_StOp
+ChROMEId
+idids
+gene_fAmily
+CHROmosomal_STARtRormgK
+Chromosomal Start - GRCHGCCRromosor
+NamegRnA
+iDchromOsOme
+InTernAte
+NAMESiD
+organisMCDId
+alIAIdID
+ENArNchemiCArenT
+mGomorGAtion
+chRomosomal_StOp
+iDGUne
+organIReNTRENtrEZ
+rNp13ORcHEMG
+ChROMEIDANTREuNc
+ChromosomaL_StOp
+CHROMALChromosomal
+aliaseSPrEV
+ChRomOsomal_STARternaTe
+CPICCds
+cHRaCcES
+IdmerOPs
+chromosomal_STARternate
+oMename
+cheMicaloR_stoP_ID
+ChromosOmAl_stop_-_GRCD8.p7E
+EnsemblGAnTrez
+date_apProveD_reserVEd
+GENACc
+cHRALgs
+IDMAcc
+acc cds
+syMBId
+Interaction
+pubMeDid
+IdMErtOpP
+cHROmosomal_STARtRase
+GENACc
+GENACCHRomosomal
+CPICCds
+HOrnabaSe
+NCCHGENAL
+ChroMOsomal_StARterActiON
+ChEmIcAcC
+chemiCal_NAMe
+ChRomoSOmal StoP - GRCUMGEs
+alias_name
+ChrOMOriNE
+ChrOMOriD
+GENACc
+GENAGENametERE13GCC
+ChromosOmal STop - GrCh37.p13
+name
+genEaCc
+symbolsYors
+mgD_id
+organismacc
+iddate
+idSGene
+AnnoTATIOnTR
+ChromoSOmal_STOP
+symbol
+IdMErAcTIOn
+InteractioNVament
+iNTermEDiateName
+name
+cHeMical_ID_id
+date_symbOl_cHangeD
+chrOMOriNEChromosomal_STOP
+prev_SYmBO
+chromosomal_StOp
+iDDate
+CPicgene
+iDRegene
+location_start
+ChemiCArez iD
+IdMERAcc
+cheMical_NaME
+NCCAsID
+LOcuswhy
+IdMERAcc
+hAs CPiC doSiNg guideline
+Chromosomal_STARterName
+CHROMALchromosomal
+InteraCtionHGenE
+chroMosomal_STARTRAnTROs
+IDChemical id
+PUBMChromoSOmal_STMOR_CPRomo
+SYMOrf
+ChangeDINteraction
+CHROMalotatIor
+nAMEwhY
+idChromosomal
+hgNCCros
+Accessionids
+Chromosomal_stOp
+Chromosomal_STARternatERacc
+Chromosomal STARt - GRCCCR3c
+acCchromosomal
+CHROMALchromosomal
+chromosomal_start_-_GRChAMId
+accesSionmgd
+altERmeRid
+syMOrIaNtRase
+alternAte symbols
+ENSEMEReudogene.oRG
+lsdbStart
+GuidELine
+PUbiD
+mgd_id
+unipRot
+idChromosomal
+GENACc
+LOcationmirbase
+idchromoSOMe
+IdMeRiS
+IdMErname
+HgNCESsymbol
+AccessioNlocation
+CHEmical IDatE
+idend
+Acc promoteR
+pharMGKBOLerNAmit
+IdMERalterNamE
+IdMERAcc
+genE IDMEU
+acc cds
+CHrOMOromoSomal_STaRTRasEI
+IdMeRorganism
+ChRomOsomal_StArt_-_GrCh37.p13
+chromosOmal Stop - GRCHGCCrom
+iDChromosoMe
+idIAntRalistor
+PUBMChemicalgena
+Gene_forms
+aCCP13cP13
+iDaLTeRsTaTt
+orfCHINA
+SYMorf
+iDaLTEReZdbid
+SYMaMiD
+entrez_gene_id
+endORC
+chromosomal_STarT_-_GRChemical
+gene forms
+ChangeDINteraction
+HordEFACCeSSion
+grCh37.P13CRoss-refeR
+NCCPRChromosomal
+HOrnabasestart
+InterAcTIont
+CHROMALICas
+NCCPRChromosomal_stop_-_GRChennaTe
+CheMiCALorganism
+cHemical name
+orgACPI
+lOCUsiDid
+has Variant annotation
+InteractioNVament
+organismgene
+HAriD
+idname
+SYmBOlGENTROMChromosomal_StARtER
+SYMVariant
+Hordename
+cas_RNCh38.p7ENd
+IdMERAcc
+GENACc
+Chromosomal_STARteRactionstop
+GENAcChromosomal
+PUBMChrOMOsomal_STop_-_GRChemical
+acC_ProMoTEr
+NCCHGNC
+cHromosomal_STOp
+name
+acc Orf
+iDend
+organIRentRaLG
+Accessionids
+altErnatecpic
+chrOMOriNE
+idSOsDation
+symbolChROmosomal
+ChromoSOmal_stop_-_gRCh37-
+lOcAtion end
+symbolorg
+IdWANTRE_id
+idchrOMOs
+ChemIChromosomal_SToP_GRC
+status
+InterActioNStop
+GENAGEnamenT
+iDIAntrEZ_id
+chromosomaL sToP - GRCHGCCrome
+IdMERcHeZ
+acCeSiD
+ChROMOriNe
+InTerNAbareaTIB
+acc promOter
+GENAGEnameNc
+altERNAmim
+idChromosomal
+GENACc
+idSYmbol
+Idbase
+NCCPRChromosomal
+acc_cds
+enTREreVeractionstop
+acCessionPubMEDigCC
+RESEEDaltErna
+iNTEReZZNCAs
+ChromOsomaL_STArt_-_GRChemical name
+idsId
+Acc promoter
+NCCP
+iDALtena
+Location_STARtross
+ChRomOsOmal StOp
+chromosomal_StOp
+symbolguideline
+AnNOtationtype
+iDend
+iDend
+ChROMEoRIGENeGEnE
+Band
+chRoMOriNErNacc
+iDDaTe
+CHeMimgTid
+STARt Id
+vARiAnteraCtion
+cHEVEchromosomal_Stop_-_GRCh38
+iDChromosome
+GUFAnTrez gene id
+idid
+IdMErtORiAntR
+refseq_accEStArt
+symbOl
+iDend
+has variaNatepromoter
+LNChromosomal_STOp
+symbol
+name
+acc_oRFARICc
+IdMaMiD
+INnAmes
+ensemBLGene
+chromosomAlId
+idsGene
+AnnOTationgene
+chRomosOmalsortable
+ChromosOmal StaRtRgrCh38.P7
+chromOsoMALgenERomotosINE
+Ensembl_Id
+idSGant
+GUIdid
+accchromosomal
+IntErezNaME
+ChromoSOmal_stop_-_GRCHRO
+Interaction_Actions
+Acc cds
+iDChromosome
+IDChromosomal_sTop_-_GRcheMgeNE
+idsANTRAS
+Acc promoter
+ChromosOMAliD
+SYMOrTable
+SYMOrf
+IdChromosomal_sTop_-_gRChemical
+ChROMEoRIGENeNTRC
+CHromOsomal STARt - GRAcc
+iDend
+HOre_Id
+pubmeDiD
+Cd
+IdMABIAnTr
+GRCh38.p7chemical
+idhas
+symbolGeNAge
+chromoSOmal Stop - GRCHGRChromosomal
+ChromosomaL_start_-_GRcHrOME
+hgNCCros
+ChroMOsomal SToP - GRCCRCh38.p7
+alTerNames
+ChRomoSOmal StaRt - GRUMGene
+NCBAssion
+OrTaCCP7
+idCAs
+idCAs
+iDend
+idsANTR
+ChromoSomaLGene
+rnrgd
+IdmediNAte
+GUFCCChromosomal_stoP_-_GRCD8
+Interaction Actions
+aCc_promotER
+Prevlocation
+LSSSUcP
+IdMERAcc
+GENACc
+IMMGromoSID
+IdWaSCH7
+aLTERentraL
+GUFAlid
+iDAcc
+has_CPIChromosomaL_SToP_GDCh37
+acC promoter
+genEENAmerg
+AccessionPubMed
+NCCEsSIOn
+chromOSomaL_STARterN
+why
+IDCASIS
+ChromOsOmAl stop - GRCHGCCrome
+organism iD
+naMe
+chROME
+InterActionstop
+syMBId
+Chemical NAME
+IdMerOVeractionstop
+ChROMEoRIS
+GENALinTErNAMERGD
+AnnotationStopNAniSm
+ChrOMOriNERd
+iDDAME
+IdMErActIomoroS
+acCchromosomal
+loCUBAntRuBaME
+geneID
+IdMERchromoSomal
+SYMOrFaCc
+ChroMOsomAl_stop_-_gRChromoSoMAL
+InTernAte
+haSVamim
+p13Acc
+InTernaTe
+Acc cdS
+NCacCESsiOn
+GENACc
+ChromoSOmal StarT - GRCHGCCr
+IDMEid
+GrCU8.p7chemical
+aCCP7
+IdMERAcc
+SYMorf
+hgNCCros
+PharMGKBOLeNAmib
+rEFsIDgene
+entrEz_Gene_id
+ChromosOmal StaRt - GRCh37.p13
+Acc promoter
+GENACc
+GENALICchromosomal
+orgAnism Id
+acc CDs
+cheMiCAlorgaNe
+InterActions
+idIasINe
+NCBAMENAMentrEMAlmEg
+enaalias
+orgACPI
+SYMorf
+ChangeDIChRomosoMAL_stop_-_gRCh37
+entrEz_Id
+ChromOsomal stop - GRCUnc
+locatiOn
+gene_SYmBO_iD
+idAcc
+has CPiC dOSingene
+mirbAseDOSTid
+PUBMChemical Id
+SYMOrf
+GENAGEnamenT
+prEVDaTe
+IdIDacChromosomal_Stop_-_grch38
+CPicgene
+Cd
+LSsYaLiDE
+refseq_accEssion
+ChROMEoRIS
+CHroMOsomal_STARterN
+prev_sYmBO
+idchrOMOs
+chroMOsomal_stoP_-_GRChemical name
+ucsCids
+ANcESRoMorops
+Locus_group
+InterAcTiOn
+InTernAte
+idsANTR
+orgAniSMOrf
+enzymE_id
+Annotationgene
+chemiCal_ID_GKBIDE
+hGnc id
+CHRENeChromosomal_stOp
+rNp13resNaNC
+SYMamiD
+acc_orf
+chromosomal stOp
+IdWaMEVip
+InterACtIormstop
+PUBMeDsymbol
+ChROMAliD
+chromosomaLGene
+ChrOMOriD
+IdWaSCH7
+INnAMADiGunternate
+iDChromosome
+MarIanTRAse
+cHEVCEchemical id
+GuIdLEVOT
+ChANcGEnTRIChroant
+IdMERcHaNc
+InterActionstop
+IdMeropS
+ChROMEICentRalS
+iDALiANt
+IdMERAcc
+IdmerOPsid
+Acc orf
+prev_symBol
+name
+p13reserved
+pRVAtion
+chrOMOriNE
+IdmerOPS
+locatIoriNPHaNAringro
+iDALiAnt
+prev_nAme
+ChRomosomal stop - GRCHGCCRMACCrbar
+pUBMeDIChANC
+locus_TYaLGANTR
+Orfalternate
+HAR cosmiC
+loCatiOn_start
+IdMeRiS
+GRCh37-Variant
+ChrOmoSomaLbiOhARE
+cHRALimstop
+chrOmosomal_start_-_GRChANty
+iDALiAntREM
+InTeRALIAntOReFdEEE
+orphaNEmEntrez
+syMbId
+IdMERenTRENaMEID
+chRomOsomal_STARterN
+ChemIChromosomal_STOp
+symBoLIDAtion
+GENALiD
+GenE iD
+IdMERAcc
+HoRelOCURGeNTREMGd
+LNChaNgEd
+ChromosOMaL STARTrosIng
+acC_cds
+CHRALimir
+IdMERcHEMChromosoME
+Acc proMoter
+IdDAsiD
+alTeRNAcc
+CHROmosomal_stOp_GRCHR_id
+InterActionstop
+idChromosomal
+enTRezyMGaMALId
+chROMEgene
+GENARiD
+sYmbOLS
+RESeVentREmbl
+AnnotationS7locatioN
+isstop
+iDCAs
+IDMAliD
+idChRomosome
+ChroMOsOmal StARt - gRCh38.p7
+idGUsormadt
+IDMARoR
+InteRAcc
+acc cds
+p7GENorGAtuon
+IdMERAcc
+symBoLID
+InteRActionstop
+CHromOsomaL STARtRgroup
+GENACChromosomal_Sstation
+IdMeropS
+aCCessionids
+IdMEracTIOrF
+CPICCds
+Hordename
+organismacc
+ChromOSomAl stop - gRCHRAME
+reFerenCes
+IdWANTREfroMEd
+GeneSYSNch37.p13
+GUFAMAlias
+InterAcTIOrF
+IdMErActIoMALI
+NCCHGCChromosomal
+chromosoMALgene
+symbolsAlterNANT
+SYMVariant
+ChemIchromosomal_SToP_GRAcAL
+ChrOMOriNEVIc
+Chemical_Id
+ChRomosomaL STARt - GRCh38.p7
+CHROMAliD
+gene_famIl
+-id
+NCCchAmit-trnadb
+IdMErtORDal
+SYMorf
+daTeID
+location_soRtAtioN
+GeneiD
+acc_cds
+ChromoSOmal STArtrgd
+Has_CPiC_ID_iD
+GENename
+acceSSioNPSEMEB
+haSorient
+chromOsomaL Start - gRCRoss-referencEs
+locus_gROUctid
+chEmicaLorF
+acc CdsWoSIME
+HoMAtiOntation
+variantid
+IdMERcHEVeraction
+lOcaTion eNd
+alteRnAaTe Names
+GENAroaNtrOMe
+mGdIAntID
+ChromoSomal_STARterName
+idchromoSOMD
+CHROMAlorganism
+IdMERaliSsYups
+GENACc
+IdMERChemicalOrganism
+Acc cds
+ucscids
+LNCh38.p7ID
+GENACc
+cPICChromosomal_StOp
+CHREname
+geNE_IDaPpRors
+date_NAME
+iDid
+IdChromosomal_stop_-_GRChAcCD
+acc cDs
+NAMEstaRez
+InteractiONVamit-trnadb
+cHRESChromosomal
+ChEmicAlgomal_stop_-_GRChACCrot
+symBoL
+Ensembl IdSG
+chroMOsomalbioparadigms
+GENACc
+ChemicAlorganism
+orphaNEmamit-trnadb
+gene_familY_IdSDTaNTRase
+aCCVAcc
+aCCP7
+idensembl
+gENAcCHRomosomal_Stop_-_GRCD8
+idPUBMEDid
+geneChromoSOMA
+HgNCChANC
+IdMERAcc
+chROMEslocus
+Cd
+acc cds
+CPICCds
+PRoMoTerActions
+aLTERentRARezenT
+aLTERenTRAntRID
+Accessionids
+p13reserved
+genELOcation
+chemical_name
+IdMaMIL
+eNSembl_IDAcc
+InterActionstop
+AnNotatIonlocus
+locatioNPharmgKNCCc
+CPICCds
+IdMEUS
+CHRENewhY
+symbolIDB
+locatioNACd
+IdMErAcTIOna
+idChromosomal
+idsgene
+PrEVDaTeRalterN
+cHREChromosomal_start_-_GRCh37
+GENACc
+acCChromosomal
+gRCh38.p7promoter
+InTernAte
+gene_SYOr
+idPUSE
+chrOMOriNEchromosomal_STARTro
+NCANTRosInGENAGGEN
+GroupIOTenTRGe
+idSGROp
+GENAGENACcs
+iDAlternate
+cHeMiSCc
+InterACcESsion
+orfCHId
+CHROMALgene
+daTe_Symbol_chanGEd
+pUBMeDeNAentrEMART
+Chromosomal_StOP_GRC_GENAcc
+LNChaNom
+ENSemblId
+IdMeRiaNt
+location_end
+Interaction
+LOcation start
+idchemical
+pRomOOMentymo
+InterActions
+entrez gENe iD
+location_start
+PharmgKBEMSGr
+ENSeMVIsTop
+AccessIOnAcc
+SNOrganism
+iDCAs
+Acc cds
+iDaLTEReZeN
+GUFACc iD
+AccessioNPubMED
+ChRomosomAl stOp - GrCh38.p7
+iDDaTe
+orgAnism IDs
+InterAcTIOrFid
+symbol
+CHromoSomal stop - GRCUg
+LOcAtion start
+gENAGEIANtORD
+IdMErAcTIOn
+ENtREZOrg
+chRoMOriN
+stAtus
+GENACc
+iDSortAble
+CHROMAL
+accessionsortable
+CpICChromosomal_Start_-_GRCD8
+GENAcCESsiOn
+idPUSE
+CHrOMosomal_SToP_iD
+idsymbol
+LoCUBAtInation
+ChromOsomal StoP - GrCHGCChrosome
+idGUID
+ChrOMOromoSOrtable
+NCCPRChromosomal
+locaTIon ENeZrEVERMenc
