@@ -1,0 +1,11 @@
+,column_name,no_results,results,vocab_list
+0,Chemical ID,1,[],[]
+1,Cas RN,1,['http://purl.bioontology.org/ontology/MESH/RN'],['http://data.bioontology.org/ontologies/MESH']
+2,Gene Symbol,0,[],[]
+3,Gene ID,0,[],[]
+4,Gene Forms,0,[],[]
+5,Organism,0,[],[]
+6,Organism ID,0,[],[]
+7,Interaction,0,[],[]
+8,Interaction Actions,0,[],[]
+9,PubMed IDs,0,[],[]

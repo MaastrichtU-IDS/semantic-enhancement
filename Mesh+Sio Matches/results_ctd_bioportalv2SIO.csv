@@ -1,0 +1,11 @@
+,column_name,no_results,results,vocab_list
+0,Chemical ID,6,"['http://semanticscience.org/resource/SIO_000671', 'http://semanticscience.org/resource/SIO_000673', 'http://semanticscience.org/resource/SIO_001242', 'http://semanticscience.org/resource/SIO_000672', 'http://semanticscience.org/resource/SIO_000674']",['http://data.bioontology.org/ontologies/SIO']
+1,Cas RN,0,[],[]
+2,Gene Symbol,3,"['http://semanticscience.org/resource/SIO_001097', 'http://semanticscience.org/resource/SIO_000425']",['http://data.bioontology.org/ontologies/SIO']
+3,Gene ID,8,"['http://semanticscience.org/resource/SIO_001097', 'http://semanticscience.org/resource/SIO_000425', 'http://semanticscience.org/resource/SIO_000671', 'http://semanticscience.org/resource/SIO_000673', 'http://semanticscience.org/resource/SIO_001242', 'http://semanticscience.org/resource/SIO_000672', 'http://semanticscience.org/resource/SIO_000674']",['http://data.bioontology.org/ontologies/SIO']
+4,Gene Forms,3,"['http://semanticscience.org/resource/SIO_001097', 'http://semanticscience.org/resource/SIO_000425']",['http://data.bioontology.org/ontologies/SIO']
+5,Organism,0,[],[]
+6,Organism ID,6,"['http://semanticscience.org/resource/SIO_000671', 'http://semanticscience.org/resource/SIO_000673', 'http://semanticscience.org/resource/SIO_001242', 'http://semanticscience.org/resource/SIO_000672', 'http://semanticscience.org/resource/SIO_000674']",['http://data.bioontology.org/ontologies/SIO']
+7,Interaction,0,[],[]
+8,Interaction Actions,0,[],[]
+9,PubMed IDs,0,[],[]
