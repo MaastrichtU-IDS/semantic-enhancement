@@ -1,0 +1,22 @@
+,column_name,no_results(duplicates),no_results(no duplicates),results,vocab_list
+0,NCBI Gene ID,0,0,[],[]
+1,HGNC ID,0,0,[],[]
+2,Ensembl Id,0,0,[],[]
+3,Name,2,2,"['http://rdf.adalab-project.org/ontology/adalab/name', 'http://identifiers.org/biomodels.vocabulary#name']",['http://data.bioontology.org/ontologies/ADALAB-META']
+4,Symbol,1,1,['http://identifiers.org/biomodels.vocabulary#symbol'],['http://data.bioontology.org/ontologies/ADALAB-META']
+5,Alternate Names,0,0,[],[]
+6,Alternate Symbols,0,0,[],[]
+7,Is VIP,0,0,[],[]
+8,Has Variant Annotation,0,0,[],[]
+9,Cross-references,0,0,[],[]
+10,Has CPIC Dosing Guideline,0,0,[],[]
+11,Chromosome,0,0,[],[]
+12,Chromosomal Start - GRCh37.p13,0,0,[],[]
+13,Chromosomal Stop - GRCh37.p13,0,0,[],[]
+14,Chromosomal Start - GRCh38.p7,0,0,[],[]
+15,Chromosomal Stop - GRCh38.p7,0,0,[],[]
+16,PharmGKB Accession Id,0,0,[],[]
+,,,,,
+Total M,2,,,,
+Total ,17,,,,
+Precision,12%,,,,

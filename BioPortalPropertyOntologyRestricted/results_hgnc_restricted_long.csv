@@ -1,0 +1,54 @@
+,column_name,no_results(duplicates),no_results(no duplicates),results,vocab_list
+0,symbol,0,0,[],[]
+1,name,0,0,[],[]
+2,locus group,3,1,['http://ncicb.nci.nih.gov/xml/owl/EVS/Hugo.owl#Locus_Group'],"['http://data.bioontology.org/ontologies/HUGO', 'http://data.bioontology.org/ontologies/PTS', 'http://data.bioontology.org/ontologies/HGNC']"
+3,locus type,3,1,['http://ncicb.nci.nih.gov/xml/owl/EVS/Hugo.owl#Locus_Type'],"['http://data.bioontology.org/ontologies/HUGO', 'http://data.bioontology.org/ontologies/PTS', 'http://data.bioontology.org/ontologies/HGNC']"
+4,status,3,1,['http://ncicb.nci.nih.gov/xml/owl/EVS/Hugo.owl#Status'],"['http://data.bioontology.org/ontologies/HUGO', 'http://data.bioontology.org/ontologies/PTS', 'http://data.bioontology.org/ontologies/HGNC']"
+5,location,0,0,[],[]
+6,location sortable,0,0,[],[]
+7,alias symbol,0,0,[],[]
+8,alias name,0,0,[],[]
+9,prev symbol,0,0,[],[]
+10,prev name,0,0,[],[]
+11,gene family,0,0,[],[]
+12,gene family id,0,0,[],[]
+13,date approved reserved,0,0,[],[]
+14,date symbol changed,3,1,['http://ncicb.nci.nih.gov/xml/owl/EVS/Hugo.owl#Date_Symbol_Changed'],"['http://data.bioontology.org/ontologies/HUGO', 'http://data.bioontology.org/ontologies/PTS', 'http://data.bioontology.org/ontologies/HGNC']"
+15,date name changed,3,1,['http://ncicb.nci.nih.gov/xml/owl/EVS/Hugo.owl#Date_Name_Changed'],"['http://data.bioontology.org/ontologies/HUGO', 'http://data.bioontology.org/ontologies/PTS', 'http://data.bioontology.org/ontologies/HGNC']"
+16,date modified,3,1,['http://ncicb.nci.nih.gov/xml/owl/EVS/Hugo.owl#Date_Modified'],"['http://data.bioontology.org/ontologies/HUGO', 'http://data.bioontology.org/ontologies/PTS', 'http://data.bioontology.org/ontologies/HGNC']"
+17,entrez id,0,0,[],[]
+18,ensembl gene id,0,0,[],[]
+19,vega id,0,0,[],[]
+20,ucsc id,0,0,[],[]
+21,ena,0,0,[],[]
+22,refseq accession,0,0,[],[]
+23,ccds id,0,0,[],[]
+24,uniprot ids,0,0,[],[]
+25,pubmed id,0,0,[],[]
+26,mgd id,0,0,[],[]
+27,rgd id,0,0,[],[]
+28,lsdb,0,0,[],[]
+29,cosmic,3,1,['http://ncicb.nci.nih.gov/xml/owl/EVS/Hugo.owl#COSMIC_ID'],"['http://data.bioontology.org/ontologies/HUGO', 'http://data.bioontology.org/ontologies/PTS', 'http://data.bioontology.org/ontologies/HGNC']"
+30,omim id,0,0,[],[]
+31,mirbase,0,0,[],[]
+32,homeodb,0,0,[],[]
+33,snornabase,0,0,[],[]
+34,bioparadigms slc,0,0,[],[]
+35,orphanet,3,1,['http://ncicb.nci.nih.gov/xml/owl/EVS/Hugo.owl#Orphanet_ID'],"['http://data.bioontology.org/ontologies/HUGO', 'http://data.bioontology.org/ontologies/PTS', 'http://data.bioontology.org/ontologies/HGNC']"
+36,pseudogene.org,0,0,[],[]
+37,horde id,0,0,[],[]
+38,merops,3,1,['http://ncicb.nci.nih.gov/xml/owl/EVS/Hugo.owl#MEROPS_ID'],"['http://data.bioontology.org/ontologies/HUGO', 'http://data.bioontology.org/ontologies/PTS', 'http://data.bioontology.org/ontologies/HGNC']"
+39,imgt,0,0,[],[]
+40,iuphar,3,1,['http://ncicb.nci.nih.gov/xml/owl/EVS/Hugo.owl#IUPHAR_ID'],"['http://data.bioontology.org/ontologies/HUGO', 'http://data.bioontology.org/ontologies/PTS', 'http://data.bioontology.org/ontologies/HGNC']"
+41,kznf gene catalog,3,1,['http://ncicb.nci.nih.gov/xml/owl/EVS/Hugo.owl#KZNF_Gene_Catalog_ID'],"['http://data.bioontology.org/ontologies/HUGO', 'http://data.bioontology.org/ontologies/PTS', 'http://data.bioontology.org/ontologies/HGNC']"
+42,mamit-trnadb,0,0,[],[]
+43,cd,3,1,['http://ncicb.nci.nih.gov/xml/owl/EVS/Hugo.owl#CD_ID'],"['http://data.bioontology.org/ontologies/HUGO', 'http://data.bioontology.org/ontologies/PTS', 'http://data.bioontology.org/ontologies/HGNC']"
+44,lncrnadb,0,0,[],[]
+45,enzyme id,0,0,[],[]
+46,intermediate filament db,3,1,['http://ncicb.nci.nih.gov/xml/owl/EVS/Hugo.owl#Intermediate_Filament_DB_ID'],"['http://data.bioontology.org/ontologies/HUGO', 'http://data.bioontology.org/ontologies/PTS', 'http://data.bioontology.org/ontologies/HGNC']"
+47,rna central ids,0,0,[],[]
+48,hgnc id,0,0,[],[]
+,,,,,
+Total M,13,,,,
+Total ,49,,,,
+Precision,27%,,,,
