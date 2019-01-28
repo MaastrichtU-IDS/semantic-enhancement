@@ -1,0 +1,1163 @@
+PHARMGKB ACCESSION ID
+NCBI GENE ID
+HGNC ID
+ENSEMBL ID
+NAME
+SYMBOL
+ALTERNATE NAMES
+ALTERNATE SYMBOLS
+IS VIP
+HAS VARIANT ANNOTATION
+CROSS-REFERENCES
+HAS CPIC DOSING GUIDELINE
+CHROMOSOME
+CHROMOSOMAL START - GRCH37.P13
+CHROMOSOMAL STOP - GRCH37.P13
+CHROMOSOMAL START - GRCH38.P7
+CHROMOSOMAL STOP - GRCH38.P7
+HGNC_ID
+SYMBOL
+NAME
+LOCUS_GROUP
+LOCUS_TYPE
+STATUS
+LOCATION
+LOCATION_SORTABLE
+ALIAS_SYMBOL
+ALIAS_NAME
+PREV_SYMBOL
+PREV_NAME
+GENE_FAMILY
+GENE_FAMILY_ID
+DATE_APPROVED_RESERVED
+DATE_SYMBOL_CHANGED
+DATE_NAME_CHANGED
+DATE_MODIFIED
+ENTREZ_ID
+ENSEMBL_GENE_ID
+VEGA_ID
+UCSC_ID
+ENA
+REFSEQ_ACCESSION
+CCDS_ID
+UNIPROT_IDS
+PUBMED_ID
+MGD_ID
+RGD_ID
+LSDB
+COSMIC
+OMIM_ID
+MIRBASE
+HOMEODB
+SNORNABASE
+BIOPARADIGMS_SLC
+ORPHANET
+PSEUDOGENE.ORG
+HORDE_ID
+MEROPS
+IMGT
+IUPHAR
+KZNF_GENE_CATALOG
+MAMIT-TRNADB
+CD
+LNCRNADB
+ENZYME_ID
+INTERMEDIATE_FILAMENT_DB
+RNA_CENTRAL_IDS
+CHEMICAL NAME
+CHEMICAL ID
+CAS RN
+GENE SYMBOL
+GENE ID
+GENE FORMS
+ORGANISM
+ORGANISM ID
+INTERACTION
+INTERACTION ACTIONS
+PUBMED IDS
+GENAGE ID
+SYMBOL
+ALIASES
+NAME
+ENTREZ GENE ID
+UNIPROT
+WHY
+BAND
+LOCATION START
+LOCATION END
+ORIENTATION
+ACC PROMOTER
+ACC ORF
+ACC CDS
+REFERENCES
+ORTHOLOGS
+PharmGKBname
+Accessionenzyme
+Idlocus
+NCBIid
+GeneNCBI
+IDsymbol
+HGNCpubmed
+IDensembl
+EnsemblActions
+IdHas
+Namemodified
+Symbolid
+AlternateDosing
+Namessymbol
+Alternatergd
+SymbolsVariant
+Isid
+VIPSymbol
+HasChromosomal
+Varianttype
+AnnotationID
+Cross-referencesorthologs
+HasId
+CPICChemical
+Dosingentrez
+Guidelinelocation
+ChromosomeId
+ChromosomalGRCh38.p7
+Startensembl
+-Chromosomal
+GRCh37.p13uniprot
+ChromosomalName
+StopPubMed
+-gene
+GRCh37.p13date
+Chromosomalrna
+Startchanged
+--
+GRCh38.p7Has
+Chromosomal-
+Stopchanged
+-id
+GRCh38.p7date
+hgncGene
+idChromosomal
+symbolmerops
+nameVariant
+locusaccession
+groupid
+locusmodified
+typeCross-references
+statusend
+locationID
+locationCas
+sortableucsc
+aliasGene
+symbolentrez
+aliaslocation
+nameIDs
+prevlocus
+symbolstart
+prevorg
+nameapproved
+genevega
+familyband
+geneIs
+familyaliases
+idRN
+dateid
+approvedAccession
+reservedChromosomal
+datedate
+symbolGene
+changedorthologs
+dateorf
+nameacc
+changedID
+dateInteraction
+modifiedAlternate
+entrezName
+idccds
+ensemblsortable
+geneChromosomal
+idsymbol
+vegapromoter
+idChromosomal
+ucscId
+idInteraction
+enasortable
+refseqGRCh37.p13
+accessionpromoter
+ccdscatalog
+idIs
+uniprotpromoter
+idsChromosomal
+pubmedentrez
+idgene
+mgdcentral
+idvega
+rgdid
+idAlternate
+lsdbSymbol
+cosmicmamit-trnadb
+omimSymbol
+idEnsembl
+mirbaseStop
+homeodbid
+snornabaseorientation
+bioparadigmsalias
+slcID
+orphanetmgd
+pseudogeneena
+orgimgt
+hordeorg
+idHas
+meropspseudogene
+imgtcatalog
+iupharmerops
+kznfalias
+geneccds
+catalogStart
+mamit-trnadbIs
+cdacc
+lncrnadbChromosomal
+enzymeAlternate
+idGene
+intermediateStop
+filamentSymbol
+dbvega
+rnasymbol
+centralprev
+idsmodified
+ChemicalRN
+Namecatalog
+ChemicalID
+IDdate
+Casvega
+RNwhy
+Genesymbol
+Symbolband
+GeneName
+IDNCBI
+Geneentrez
+Formsuniprot
+OrganismOrganism
+OrganismID
+IDmgd
+Interactionname
+Interactionlocation
+ActionsPharmGKB
+PubMedGene
+IDsGene
+GenAgeID
+IDAlternate
+symbolChemical
+aliasesGRCh37.p13
+namecds
+entrezgroup
+geneID
+iducsc
+uniprot-
+whybioparadigms
+bandmirbase
+locationGene
+startslc
+locationgene
+endID
+orientationid
+accpromoter
+promoterHas
+acc-
+orfid
+accHas
+cdsGRCh37.p13
+referencesomim
+orthologsalias
+PharmGKBend
+Accessionprev
+Idorphanet
+NCBI-
+Genealias
+IDiuphar
+HGNCmgd
+IDid
+Ensemblend
+IdRN
+Namegene
+Symbolid
+Alternateid
+NamesVariant
+Alternateid
+Symbolshgnc
+Isentrez
+VIPChemical
+Hasrgd
+Variantstatus
+Annotationcds
+Cross-referencesentrez
+Hasstatus
+CPICid
+Dosingid
+Guidelineentrez
+Chromosomeid
+ChromosomalID
+Startname
+-mirbase
+GRCh37.p13RN
+ChromosomalGenAge
+Stopstatus
+-mirbase
+GRCh37.p13cosmic
+ChromosomalGRCh37.p13
+Startccds
+-Chromosomal
+GRCh38.p7Gene
+Chromosomalfamily
+Stopcosmic
+-rna
+GRCh38.p7location
+hgncname
+idId
+symbolucsc
+nametype
+locusname
+groupfamily
+locusgroup
+typeIDs
+statuslocation
+locationalias
+locationimgt
+sortableChromosomal
+aliassymbol
+symboldate
+aliasHas
+nameIDs
+prevID
+symbolrna
+prevorg
+namevega
+geneID
+familylsdb
+genename
+familyids
+idChemical
+datehomeodb
+approvedomim
+reservedrefseq
+dateid
+symbolid
+changedChromosomal
+datename
+nameChromosomal
+changedgroup
+datevega
+modifiedorientation
+entrezNCBI
+idActions
+ensemblgene
+geneuniprot
+idID
+vega-
+idID
+ucscsymbol
+id-
+enaGRCh37.p13
+refseqNCBI
+accessionChromosomal
+ccdsacc
+idcd
+uniprotIDs
+idsID
+pubmedids
+idGenAge
+mgdiuphar
+idlocation
+rgdGenAge
+idchanged
+lsdb-
+cosmicID
+omimpubmed
+idid
+mirbaseacc
+homeodbgene
+snornabasemirbase
+bioparadigmsfamily
+slcGenAge
+orphanetdate
+pseudogeneacc
+orgOrganism
+hordestatus
+idsnornabase
+meropsGRCh37.p13
+imgtname
+iupharcosmic
+kznfmgd
+geneID
+catalogentrez
+mamit-trnadbsnornabase
+cdprev
+lncrnadbucsc
+enzymeAlternate
+idmamit-trnadb
+intermediateomim
+filamentreferences
+dbalias
+rnaname
+centralid
+idsid
+Chemicalmirbase
+Namemirbase
+Chemicalid
+IDStop
+Casreferences
+RNGRCh37.p13
+GeneCas
+SymbolPharmGKB
+GeneId
+IDlocation
+Genelocation
+FormsHas
+Organismgene
+OrganismChemical
+IDgroup
+Interactionprev
+Interactionentrez
+ActionsCross-references
+PubMedAlternate
+IDsid
+GenAgelocation
+IDId
+symbolPharmGKB
+aliasesdb
+namename
+entrezomim
+geneapproved
+idcd
+uniprotChromosomal
+whyids
+bandsymbol
+locationids
+startimgt
+locationName
+endaliases
+orientationChromosomal
+accid
+promoterlocation
+accreserved
+orffamily
+accid
+cdsid
+referencesid
+orthologsid
+pharmgkb accession id
+ncbi gene id
+hgnc id
+ensembl id
+name
+symbol
+alternate names
+alternate symbols
+is vip
+has variant annotation
+cross-references
+has cpic dosing guideline
+chromosome
+chromosomal start - grch37.p13
+chromosomal stop - grch37.p13
+chromosomal start - grch38.p7
+chromosomal stop - grch38.p7
+hgnc_id
+symbol
+name
+locus_group
+locus_type
+status
+location
+location_sortable
+alias_symbol
+alias_name
+prev_symbol
+prev_name
+gene_family
+gene_family_id
+date_approved_reserved
+date_symbol_changed
+date_name_changed
+date_modified
+entrez_id
+ensembl_gene_id
+vega_id
+ucsc_id
+ena
+refseq_accession
+ccds_id
+uniprot_ids
+pubmed_id
+mgd_id
+rgd_id
+lsdb
+cosmic
+omim_id
+mirbase
+homeodb
+snornabase
+bioparadigms_slc
+orphanet
+pseudogene.org
+horde_id
+merops
+imgt
+iuphar
+kznf_gene_catalog
+mamit-trnadb
+cd
+lncrnadb
+enzyme_id
+intermediate_filament_db
+rna_central_ids
+chemical name
+chemical id
+cas rn
+gene symbol
+gene id
+gene forms
+organism
+organism id
+interaction
+interaction actions
+pubmed ids
+genage id
+symbol
+aliases
+name
+entrez gene id
+uniprot
+why
+band
+location start
+location end
+orientation
+acc promoter
+acc orf
+acc cds
+references
+orthologs
+PharmGKBgene
+Accessionslc
+Idimgt
+NCBICas
+Genelocation
+IDstart
+HGNCentrez
+IDname
+EnsemblChromosome
+Idids
+Namesnornabase
+SymbolIDs
+Alternaterefseq
+Nameschanged
+AlternateForms
+SymbolsOrganism
+Isalias
+VIPsnornabase
+Hasprev
+Variantuniprot
+Annotationlocation
+Cross-referencescentral
+Hasid
+CPICCPIC
+Dosinglocus
+GuidelineID
+ChromosomeStart
+Chromosomalsymbol
+Startmirbase
+-orientation
+GRCh37.p13Name
+Chromosomalcd
+Stophorde
+-locus
+GRCh37.p13uniprot
+ChromosomalHas
+Startacc
+-family
+GRCh38.p7Gene
+Chromosomal-
+Stopchanged
+-prev
+GRCh38.p7symbol
+hgncNames
+idChemical
+symbolorientation
+nameID
+locuspseudogene
+groupdate
+locusid
+typefamily
+statusdate
+locationfilament
+locationmirbase
+sortableID
+aliasalias
+symbolVIP
+aliasid
+namename
+prevfamily
+symboliuphar
+prevchanged
+namehgnc
+genecentral
+familyorphanet
+genefilament
+family-
+idfilament
+dateIDs
+approvedhomeodb
+reservedgene
+dateids
+symbolCPIC
+changedGene
+datename
+namesnornabase
+changedActions
+dateActions
+modifiedmirbase
+entrezid
+idVariant
+ensemblprev
+geneOrganism
+idfamily
+vegaInteraction
+idsymbol
+ucscid
+idAlternate
+enadate
+refseqcatalog
+accessionCas
+ccdsID
+idCPIC
+uniprotSymbol
+idsname
+pubmedChemical
+idfamily
+mgdId
+idmamit-trnadb
+rgdPubMed
+idid
+lsdbGenAge
+cosmicVariant
+omimlocation
+idid
+mirbasekznf
+homeodbchanged
+snornabaseprev
+bioparadigmsid
+slcgene
+orphanetfamily
+pseudogenemgd
+orgpseudogene
+hordetype
+idmirbase
+meropsreserved
+imgtGene
+iupharid
+kznfprev
+geneorientation
+catalogwhy
+mamit-trnadbID
+cdlocation
+lncrnadbids
+enzymegroup
+id-
+intermediateprev
+filament-
+dbacc
+rnaid
+centralmerops
+idsentrez
+Chemicalchanged
+Nameorphanet
+Chemicalreferences
+IDalias
+Cascosmic
+RNDosing
+Geneomim
+SymbolStop
+Geneensembl
+ID-
+Geneentrez
+FormsNCBI
+OrganismChemical
+Organismslc
+IDSymbol
+InteractionChromosomal
+Interactionmodified
+ActionsSymbols
+PubMedacc
+IDsbioparadigms
+GenAgeomim
+IDids
+symbolname
+aliaseslncrnadb
+nameChromosomal
+entrezChromosome
+geneSymbol
+idccds
+uniprotCross-references
+whySymbol
+bandccds
+locationrgd
+startID
+locationid
+endChemical
+orientationuniprot
+accrgd
+promoterGRCh37.p13
+accid
+orfHas
+accStart
+cdsrna
+referencessymbol
+orthologsGene
+PHARMGKB ACCESSION ID
+NCBI GENE ID
+HGNC ID
+ENSEMBL ID
+NAME
+SYMBOL
+ALTERNATE NAMES
+ALTERNATE SYMBOLS
+IS VIP
+HAS VARIANT ANNOTATION
+CROSS-REFERENCES
+HAS CPIC DOSING GUIDELINE
+CHROMOSOME
+CHROMOSOMAL START - GRCH37.P13
+CHROMOSOMAL STOP - GRCH37.P13
+CHROMOSOMAL START - GRCH38.P7
+CHROMOSOMAL STOP - GRCH38.P7
+HGNC_ID
+SYMBOL
+NAME
+LOCUS_GROUP
+LOCUS_TYPE
+STATUS
+LOCATION
+LOCATION_SORTABLE
+ALIAS_SYMBOL
+ALIAS_NAME
+PREV_SYMBOL
+PREV_NAME
+GENE_FAMILY
+GENE_FAMILY_ID
+DATE_APPROVED_RESERVED
+DATE_SYMBOL_CHANGED
+DATE_NAME_CHANGED
+DATE_MODIFIED
+ENTREZ_ID
+ENSEMBL_GENE_ID
+VEGA_ID
+UCSC_ID
+ENA
+REFSEQ_ACCESSION
+CCDS_ID
+UNIPROT_IDS
+PUBMED_ID
+MGD_ID
+RGD_ID
+LSDB
+COSMIC
+OMIM_ID
+MIRBASE
+HOMEODB
+SNORNABASE
+BIOPARADIGMS_SLC
+ORPHANET
+PSEUDOGENE.ORG
+HORDE_ID
+MEROPS
+IMGT
+IUPHAR
+KZNF_GENE_CATALOG
+MAMIT-TRNADB
+CD
+LNCRNADB
+ENZYME_ID
+INTERMEDIATE_FILAMENT_DB
+RNA_CENTRAL_IDS
+CHEMICAL NAME
+CHEMICAL ID
+CAS RN
+GENE SYMBOL
+GENE ID
+GENE FORMS
+ORGANISM
+ORGANISM ID
+INTERACTION
+INTERACTION ACTIONS
+PUBMED IDS
+GENAGE ID
+SYMBOL
+ALIASES
+NAME
+ENTREZ GENE ID
+UNIPROT
+WHY
+BAND
+LOCATION START
+LOCATION END
+ORIENTATION
+ACC PROMOTER
+ACC ORF
+ACC CDS
+REFERENCES
+ORTHOLOGS
+pharmgkb accession id
+ncbi gene id
+hgnc id
+ensembl id
+name
+symbol
+alternate names
+alternate symbols
+is vip
+has variant annotation
+cross-references
+has cpic dosing guideline
+chromosome
+chromosomal start - grch37.p13
+chromosomal stop - grch37.p13
+chromosomal start - grch38.p7
+chromosomal stop - grch38.p7
+hgnc_id
+symbol
+name
+locus_group
+locus_type
+status
+location
+location_sortable
+alias_symbol
+alias_name
+prev_symbol
+prev_name
+gene_family
+gene_family_id
+date_approved_reserved
+date_symbol_changed
+date_name_changed
+date_modified
+entrez_id
+ensembl_gene_id
+vega_id
+ucsc_id
+ena
+refseq_accession
+ccds_id
+uniprot_ids
+pubmed_id
+mgd_id
+rgd_id
+lsdb
+cosmic
+omim_id
+mirbase
+homeodb
+snornabase
+bioparadigms_slc
+orphanet
+pseudogene.org
+horde_id
+merops
+imgt
+iuphar
+kznf_gene_catalog
+mamit-trnadb
+cd
+lncrnadb
+enzyme_id
+intermediate_filament_db
+rna_central_ids
+chemical name
+chemical id
+cas rn
+gene symbol
+gene id
+gene forms
+organism
+organism id
+interaction
+interaction actions
+pubmed ids
+genage id
+symbol
+aliases
+name
+entrez gene id
+uniprot
+why
+band
+location start
+location end
+orientation
+acc promoter
+acc orf
+acc cds
+references
+orthologs
+PharmGKB_Accession_Id
+NCBI_Gene_ID
+HGNC_ID
+Ensembl_Id
+Alternate_Names
+Alternate_Symbols
+Is_VIP
+Has_Variant_Annotation
+Has_CPIC_Dosing_Guideline
+Chromosomal_Start_-_GRCh37.p13
+Chromosomal_Stop_-_GRCh37.p13
+Chromosomal_Start_-_GRCh38.p7
+Chromosomal_Stop_-_GRCh38.p7
+Chemical_Name
+Chemical_ID
+Cas_RN
+Gene_Symbol
+Gene_ID
+Gene_Forms
+Organism_ID
+Interaction_Actions
+PubMed_IDs
+GenAge_ID
+entrez_gene_id
+location_start
+location_end
+acc_promoter
+acc_orf
+acc_cds
+pharmgkb_accession_id
+ncbi_gene_id
+hgnc_id
+ensembl_id
+alternate_names
+alternate_symbols
+is_vip
+has_variant_annotation
+has_cpic_dosing_guideline
+chromosomal_start_-_grch37.p13
+chromosomal_stop_-_grch37.p13
+chromosomal_start_-_grch38.p7
+chromosomal_stop_-_grch38.p7
+chemical_name
+chemical_id
+cas_rn
+gene_symbol
+gene_id
+gene_forms
+organism_id
+interaction_actions
+pubmed_ids
+genage_id
+entrez_gene_id
+location_start
+location_end
+acc_promoter
+acc_orf
+acc_cds
+PHARMGKB_ACCESSION_ID
+NCBI_GENE_ID
+HGNC_ID
+ENSEMBL_ID
+ALTERNATE_NAMES
+ALTERNATE_SYMBOLS
+IS_VIP
+HAS_VARIANT_ANNOTATION
+HAS_CPIC_DOSING_GUIDELINE
+CHROMOSOMAL_START_-_GRCH37.P13
+CHROMOSOMAL_STOP_-_GRCH37.P13
+CHROMOSOMAL_START_-_GRCH38.P7
+CHROMOSOMAL_STOP_-_GRCH38.P7
+CHEMICAL_NAME
+CHEMICAL_ID
+CAS_RN
+GENE_SYMBOL
+GENE_ID
+GENE_FORMS
+ORGANISM_ID
+INTERACTION_ACTIONS
+PUBMED_IDS
+GENAGE_ID
+ENTREZ_GENE_ID
+LOCATION_START
+LOCATION_END
+ACC_PROMOTER
+ACC_ORF
+ACC_CDS
+PharmGKBOrganism
+Accessionhorde
+Idname
+NCBIccds
+Genelocation
+IDlsdb
+HGNCChemical
+IDkznf
+Ensemblid
+Idccds
+NameChemical
+SymbolStart
+AlternateAnnotation
+NamesAlternate
+AlternateGene
+SymbolsCPIC
+IsChemical
+VIPensembl
+Haslsdb
+Variantmodified
+Annotationgene
+Cross-referencesbioparadigms
+HasCPIC
+CPICalias
+Dosingrna
+Guidelineid
+Chromosomeprev
+Chromosomalid
+Startlocus
+-reserved
+GRCh37.p13uniprot
+Chromosomalname
+Stopdate
+-slc
+GRCh37.p13date
+Chromosomalkznf
+Startid
+-Gene
+GRCh38.p7id
+Chromosomallocus
+Stoplocation
+-location
+GRCh38.p7Variant
+hgncForms
+idGene
+symbol-
+nameRN
+locusorthologs
+groupGene
+locusstatus
+typeGene
+statusForms
+locationintermediate
+locationtype
+sortablewhy
+aliasStop
+symbolChromosomal
+aliasomim
+nameInteraction
+prevVIP
+symbolIs
+prevInteraction
+nameGRCh38.p7
+genehgnc
+familyintermediate
+genegene
+familyacc
+idorphanet
+dateAnnotation
+approvedPharmGKB
+reservedfamily
+dateIs
+symbol-
+changedVIP
+datehorde
+nameName
+changedsymbol
+dateimgt
+modifiedreferences
+entrezcentral
+idmodified
+ensemblAnnotation
+geneID
+idlocation
+vega-
+idpromoter
+ucscname
+idGene
+enaStop
+refseqGene
+accessionChemical
+ccdsChromosomal
+idrefseq
+uniprotChemical
+ids-
+pubmedRN
+idfamily
+mgduniprot
+idGRCh37.p13
+rgdorf
+idapproved
+lsdbStart
+cosmicid
+omimname
+idGene
+mirbaseInteraction
+homeodbhorde
+snornabasegene
+bioparadigmsGenAge
+slcSymbol
+orphanetname
+pseudogenegene
+orgorthologs
+hordeid
+idId
+meropspseudogene
+imgtpromoter
+iupharsymbol
+kznfGene
+geneid
+catalogpseudogene
+mamit-trnadbSymbols
+cdpseudogene
+lncrnadbID
+enzymeGene
+idorf
+intermediatereserved
+filamentIs
+dbGene
+rnaGene
+centralucsc
+idsfilament
+Chemicalname
+Name-
+Chemicalalias
+IDPharmGKB
+Cassymbol
+RNGRCh38.p7
+GeneSymbols
+SymbolHGNC
+Genepromoter
+IDacc
+GeneGRCh38.p7
+FormsName
+OrganismGenAge
+Organismlocus
+IDPharmGKB
+Interactiontype
+InteractionChromosomal
+Actionsiuphar
+PubMedcentral
+IDsmirbase
+GenAgeInteraction
+IDlsdb
+symbolGene
+aliaseschanged
+nameid
+entrezpseudogene
+geneActions
+idAnnotation
+uniprotentrez
+whyorientation
+bandlocation
+locationid
+startsymbol
+locationNCBI
+enddate
+orientationend
+accVariant
+promotermamit-trnadb
+accrna
+orfcosmic
+accids
+cdsStart
+referenceslocus
+orthologsVariant
