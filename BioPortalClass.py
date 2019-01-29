@@ -20,7 +20,7 @@ count = 0
 for col in cols:
     if "_" in col:
         col=col.replace("_"," ")
-    parameters = {"q": col, "apikey": "d5e33918-f82b-43d7-9b13-8063c516550f",'require_exact_match':'true'}
+    parameters = {"q": col, "apikey": "",'require_exact_match':'true'}
 
     # print(col)
     response = requests.get("http://data.bioontology.org/search?", params=parameters)
@@ -40,7 +40,7 @@ for col in cols:
     # print(parsed["pageCount"])
 
     while parsed["nextPage"]and parsed["nextPage"]<= parsed["pageCount"]:
-        parameters = {"q": col, "apikey": "d5e33918-f82b-43d7-9b13-8063c516550f",'require_exact_match':'true'}
+        parameters = {"q": col, "apikey": "",'require_exact_match':'true'}
         # print(col)
         response = requests.get(parsed["links"]["nextPage"], params=parameters)
         parsed = json.loads(response.content)
