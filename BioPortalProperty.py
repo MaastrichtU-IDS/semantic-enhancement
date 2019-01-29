@@ -31,10 +31,10 @@ for col in cols:
     if "_" in col:
         col=col.replace("_"," ")
 
-# parameters = {"q": col, "apikey": "d5e33918-f82b-43d7-9b13-8063c516550f","ontologies":ont,'require_exact_match':'true'} #use this version for ontology restriction
+# parameters = {"q": col, "apikey": "","ontologies":ont,'require_exact_match':'true'} #use this version for ontology restriction
                                                                                                                            # and long match restriction
-    parameters = {"q": col, "apikey": "d5e33918-f82b-43d7-9b13-8063c516550f","ontologies":ont} #use this version for ontology restriction
-    #parameters = {"q": col, "apikey": "d5e33918-f82b-43d7-9b13-8063c516550f"} #use this for search with no restriction
+    parameters = {"q": col, "apikey": "","ontologies":ont} #use this version for ontology restriction
+    #parameters = {"q": col, "apikey": ""} #use this for search with no restriction
     # print(col)
     response = requests.get("http://data.bioontology.org/property_search?", params=parameters)
     parsed = json.loads(response.content)
@@ -64,10 +64,10 @@ for col in cols:
     # print(parsed["pageCount"])
 
     while parsed["nextPage"] and parsed["nextPage"]<= parsed["pageCount"]:
-        # parameters = {"q": col, "apikey": "d5e33918-f82b-43d7-9b13-8063c516550f","ontologies":ont,'require_exact_match':'true'} #use this version for ontology restriction
+        # parameters = {"q": col, "apikey": "","ontologies":ont,'require_exact_match':'true'} #use this version for ontology restriction
         # and long match restriction
-        parameters = {"q": col, "apikey": "d5e33918-f82b-43d7-9b13-8063c516550f","ontologies": ont}  # use this version for ontology restriction
-        # parameters = {"q": col, "apikey": "d5e33918-f82b-43d7-9b13-8063c516550f"} #use this for search with no restriction
+        parameters = {"q": col, "apikey": "","ontologies": ont}  # use this version for ontology restriction
+        # parameters = {"q": col, "apikey": ""} #use this for search with no restriction
         # print(col)
         response = requests.get(parsed["links"]["nextPage"], params=parameters)
         parsed = json.loads(response.content)
