@@ -6,7 +6,7 @@
 
 -> To run the ANN with an already trained model and test it, load the model in the file DataPreprocessforNNArtificial.py
 
-Folder structure:
+--------------------------------------Folder structure:--------------------------------
 
 ANNModel - contains variations of the trained Artificial Neural Network for binary classification of the Gene concept using column names
 
