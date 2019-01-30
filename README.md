@@ -3,11 +3,11 @@ Folder structure:
 
 ANNModel - contains variations of the trained Artificial Neural Network for binary classification of the Gene concept using column names
 
-####################################################################################################################################
+#############################################################################################
 
 BioPortalClassLM- contains csv files for each dataset with results from using The BioPortal API for class search with parameter require_exact_match={true}
 
-####################################################################################################################################
+######################################################################################
 
 BioPortalProperty -contains csv files for each dataset with results from using The BioPortal API for property search with no parameter restrictions
 
