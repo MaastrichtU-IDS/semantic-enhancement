@@ -14,6 +14,11 @@ BioPortal API for property search with restriction of parameter ontology_list={o
 FilesUsedToBuildtraining-contains files that were created in the process of writing complete training files for the Neural Network Embedding Model
 
 FrequnecyDistributions-contains graphs for complete and restricted ontology frequecy distributions for each dataset(the used threshold for each dataset is in the file name)
-MatchClassification
 
-                                                
+MatchClassification-files containg: (i)results of the proposed framework(*.csv) and (ii)the categorizations of the matches(*.xslx)
+
+RNNModels-trained models of the Recurrent Neural Network
+
+RNNfiles- files with ouput of the RNN
+
+training- Training files (negative and positive) used for the Neural Network Embedding Model comming from the following approaches: 1)restart indexing for the same category in another dataset, 2)continue indexing for the same category in another dataset
