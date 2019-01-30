@@ -1,0 +1,11 @@
+
+symbol-32959
+name-1187
+hgncid-28955
+
+neg-loc-1839
+date-3539
+ch-49552
+ch1-26
+pgkb-26993
+Total:145050
