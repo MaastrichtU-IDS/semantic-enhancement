@@ -1,4 +1,11 @@
 # semantic-enhancement
+
+->In order to test column similarity on an already trained model, load the preffered model in the file ModelExplore.py and ask for a spcefic column
+
+-> In order to test the classification of the concept recgnition model, load the preffered model in the file ModdelTrainingRedo and follow the instructions inside
+
+-> To run the ANN with an already trained model and test it, load the model in the file DataPreprocessforNNArtificial.py
+
 Folder structure:
 
 ANNModel - contains variations of the trained Artificial Neural Network for binary classification of the Gene concept using column names
