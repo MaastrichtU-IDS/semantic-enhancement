@@ -29,7 +29,7 @@ FilesUsedToBuildtraining-contains files that were created in the process of writ
 
 #############################################################################################
 
-FrequnecyDistributions-contains graphs for complete and restricted ontology frequecy distributions for each dataset(the used threshold for each dataset is in the file name)
+FrequencyDistributions-contains graphs for complete and restricted ontology frequecy distributions for each dataset(the used threshold for each dataset is in the file name)
 
 #############################################################################################
 
