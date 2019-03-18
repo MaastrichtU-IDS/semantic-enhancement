@@ -1,6 +1,6 @@
 # semantic-enhancement
 
-->In order to test column similarity on an already trained model, load the preffered model in the file ModelExplore.py and ask for a spcefic column
+->In order to test column similarity on an already trained model, load the preffered model in the file ModelExplore.py and ask for a specfic column
 
 -> In order to test the classification of the concept recgnition model, load the preffered model in the file ModdelTrainingRedo and follow the instructions inside
 
