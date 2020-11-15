@@ -1,11 +1,12 @@
 # semantic-enhancement
-
+Instructions:
+->To train the ANN, use file DataPreprocessforNNArtificial.py and follow the instructions in the file
+->To train the Embeddedings Neural Network, use function generate_batch  to create the pairs ["column","value"] and fit data into the book_embedding_model function, follow the rest of the instructions in the file
 ->In order to test column similarity on an already trained model, load the preffered model in the file ModelExplore.py and ask for a specfic column
-
--> In order to test the classification of the concept recgnition model, load the preffered model in the file ModdelTrainingRedo and follow the instructions inside
-
--> To run the ANN with an already trained model and test it, load the model in the file DataPreprocessforNNArtificial.py
-
+->To create column names using the 5 steps heuristics use file buildfilecolumns.py and follow the rest of the instructions in the file
+->To create column names using the RNN, use file createfilewithcolumns.py and follow the rest of the instructions in the file
+->To return a list of ontologies with a particular topic (in our paper's case it was gene) use file APIselectionsubject.py and then perform the property search in BioPortal using the list, which is found in the same file
+->To search for property matches in BioPortal use file BioPortalProperty.py, similar for class matches use file BioPortalClass.py
 ----------------------------------------------------------Folder structure:------------------------------------------------------------
 
 ANNModel - contains variations of the trained Artificial Neural Network for binary classification of the Gene concept using column names
