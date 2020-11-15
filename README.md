@@ -1,5 +1,6 @@
 # semantic-enhancement
 Instructions:
+
 ->To train the ANN, use file DataPreprocessforNNArtificial.py and follow the instructions in the file
 
 ->To train the Embeddedings Neural Network, use function generate_batch  to create the pairs ["column","value"] and fit data into the book_embedding_model function, follow the rest of the instructions in the file
