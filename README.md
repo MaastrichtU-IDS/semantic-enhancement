@@ -14,6 +14,7 @@ Instructions:
 ->To return a list of ontologies with a particular topic (in our paper's case it was gene) use file APIselectionsubject.py and then perform the property search in BioPortal using the list, which is found in the same file
 
 ->To search for property matches in BioPortal use file BioPortalProperty.py, similar for class matches use file BioPortalClass.py
+
 ----------------------------------------------------------Folder structure:------------------------------------------------------------
 
 ANNModel - contains variations of the trained Artificial Neural Network for binary classification of the Gene concept using column names
