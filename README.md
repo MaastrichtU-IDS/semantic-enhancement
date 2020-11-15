@@ -5,9 +5,13 @@ Instructions:
 ->To train the Embeddedings Neural Network, use function generate_batch  to create the pairs ["column","value"] and fit data into the book_embedding_model function, follow the rest of the instructions in the file
 
 ->In order to test column similarity on an already trained model, load the preffered model in the file ModelExplore.py and ask for a specfic column
+
 ->To create column names using the 5 steps heuristics use file buildfilecolumns.py and follow the rest of the instructions in the file
+
 ->To create column names using the RNN, use file createfilewithcolumns.py and follow the rest of the instructions in the file
+
 ->To return a list of ontologies with a particular topic (in our paper's case it was gene) use file APIselectionsubject.py and then perform the property search in BioPortal using the list, which is found in the same file
+
 ->To search for property matches in BioPortal use file BioPortalProperty.py, similar for class matches use file BioPortalClass.py
 ----------------------------------------------------------Folder structure:------------------------------------------------------------
 
